@@ -3,7 +3,7 @@ import Ships from "./components/Ships/Ships";
 
 function App() {
     return (
-        <div className='wrapper'>
+        <div>
             <Ships/>
         </div>
     );
