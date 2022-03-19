@@ -1,0 +1,25 @@
+.wrap_users{
+    display: flex;
+    border: solid 2px green;
+    padding: 10px 100px;
+}
+
+.users, .user_details{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border: solid 2px black;
+}
+
+.user_details{
+    text-align: end;
+}
+.wrap_posts{
+    border: solid 2px yellow;
+    padding: 10px;
+}
+
+.posts{
+    border-bottom: solid 2px red;
+}
