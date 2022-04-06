@@ -1,0 +1,16 @@
+.header_users{
+    display: flex;
+    border: solid 2px green;
+    padding: 10px;
+}
+
+.users, .user_details{
+    border: solid 2px yellow;
+    width: 50%;
+}
+
+.user_details{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
