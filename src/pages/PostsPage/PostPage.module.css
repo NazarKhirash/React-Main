@@ -1,0 +1,12 @@
+.post_page{
+    display: flex;
+}
+
+.post_page_div{
+    width: 50%;
+}
+
+.post_page_det{
+    width: 50%;
+}
+

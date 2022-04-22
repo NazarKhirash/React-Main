@@ -1,0 +1,11 @@
+.user_div{
+    border: solid 2px black;
+    margin-top: 3px;
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 30px;
+    margin-left: 10px;
+    padding-bottom: 10px;
+}

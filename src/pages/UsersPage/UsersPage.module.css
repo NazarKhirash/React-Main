@@ -1,0 +1,14 @@
+.users_page{
+    display: flex;
+    border: solid 2px red;
+    justify-content: space-between;
+}
+
+.users_details{
+   width: 50%;
+
+}
+
+.users_page_div{
+    width: 40%;
+}

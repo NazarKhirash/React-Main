@@ -1,0 +1,28 @@
+.header{
+    height: 100px;
+    width: 100%;
+    background: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+
+.header a[class='active']{
+    text-decoration: underline;
+    color: greenyellow;
+}
+
+.header a{
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+}
+
+.outlet{
+    height: calc(100vh - 100px);
+    margin: 0;
+    overflow: hidden;
+    overflow-y: auto;
+
+}
